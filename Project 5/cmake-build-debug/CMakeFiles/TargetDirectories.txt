@@ -1,0 +1,3 @@
+/home/jacob/Desktop/School 2022/CS 236/Project 5/cmake-build-debug/CMakeFiles/Project_5.dir
+/home/jacob/Desktop/School 2022/CS 236/Project 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jacob/Desktop/School 2022/CS 236/Project 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
